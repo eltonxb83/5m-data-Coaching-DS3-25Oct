@@ -1,0 +1,9 @@
+name: coach_2
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - numpy
+  - pandas
+  - matplotlib
+prefix: /opt/anaconda3/envs/coach_2
